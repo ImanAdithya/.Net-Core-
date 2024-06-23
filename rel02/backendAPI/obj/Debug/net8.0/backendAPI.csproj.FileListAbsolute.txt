@@ -1,0 +1,107 @@
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/appsettings.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/backendAPI
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/backendAPI.deps.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/backendAPI.runtimeconfig.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/backendAPI.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/backendAPI.pdb
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.csproj.AssemblyReference.cache
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.AssemblyInfoInputs.cache
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.AssemblyInfo.cs
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.csproj.CoreCompileInputs.cache
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.backendAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.backendAPI.props
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backendAPI.props
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backendAPI.props
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/scopedcss/bundle/backendAPI.styles.css
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.csproj.Up2Date
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/refint/backendAPI.dll
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.pdb
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/backendAPI.genruntimeconfig.cache
+/Users/imanadithya/Downloads/backendAPI/backendAPI/obj/Debug/net8.0/ref/backendAPI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/appsettings.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/backendAPI
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/backendAPI.deps.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/backendAPI.runtimeconfig.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/backendAPI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/backendAPI.pdb
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.csproj.AssemblyReference.cache
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.AssemblyInfoInputs.cache
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.AssemblyInfo.cs
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.csproj.CoreCompileInputs.cache
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.backendAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.backendAPI.props
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backendAPI.props
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backendAPI.props
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/scopedcss/bundle/backendAPI.styles.css
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.csproj.Up2Date
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/refint/backendAPI.dll
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.pdb
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/backendAPI.genruntimeconfig.cache
+/Users/imanadithya/Software Engineering/net_rel/rel02/backendAPI/obj/Debug/net8.0/ref/backendAPI.dll

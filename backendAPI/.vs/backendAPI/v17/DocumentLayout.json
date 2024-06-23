@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ImanAdithya\\backendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|c:\\imanadithya\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|c:\\imanadithya\\backendapi\\backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\backendapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|c:\\imanadithya\\backendapi\\backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED85703C-1BAB-45E4-BEBB-9E10423C13DE}|backendAPI\\backendAPI.csproj|solutionrelative:backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ImanAdithya\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Program.cs",
+              "ToolTip": "C:\\ImanAdithya\\backendAPI\\backendAPI\\Program.cs",
+              "RelativeToolTip": "backendAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:48:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "backendAPI.http",
+              "DocumentMoniker": "C:\\ImanAdithya\\backendAPI\\backendAPI\\backendAPI.http",
+              "RelativeDocumentMoniker": "backendAPI\\backendAPI.http",
+              "ToolTip": "C:\\ImanAdithya\\backendAPI\\backendAPI\\backendAPI.http",
+              "RelativeToolTip": "backendAPI\\backendAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-22T04:47:58.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\ImanAdithya\\backendAPI\\backendAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backendAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\ImanAdithya\\backendAPI\\backendAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backendAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:47:47.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
